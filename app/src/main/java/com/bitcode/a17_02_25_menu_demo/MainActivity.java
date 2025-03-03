@@ -64,10 +64,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onPrepareOptionsMenu(Menu menu) {
         Toast.makeText(this, "onPrepareOptionsMenu Called ", Toast.LENGTH_SHORT).show();
-        menu.findItem(4);
-        menu.removeItem(1);
-        menu.getItem(2);
-        menu.setGroupEnabled(2, true);
+//        menu.findItem(4);
+//        menu.removeItem(1);
+//        menu.getItem(2);
+//        menu.setGroupEnabled(2, true);
 
         return false;
     }

@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.bitcode.a17_02_25_menu_demo"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.bitcode.a17_02_25_menu_demo"
